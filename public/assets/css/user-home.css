@@ -1,0 +1,33 @@
+.user-home-banner {
+    background-image: url('../img/banner-home.jpg');
+    height: 60vh;
+    width: 100%;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.user-home-container {
+    background-color: #262626;
+    min-height: 100vh;
+    height: 100%;
+}
+
+.user-home-schedule {
+    background-color: #FEBE8C;
+    height: 650px;
+}
+
+.btn-user-home-reservation {
+    background-color: #FFB84C;
+    border: 1px solid #262626;
+    border-radius: 5px;
+    color: #262626;
+    outline: none;
+}
+
+.btn-user-home-reservation:hover {
+    background: #262626;
+    transition: background 0.2s;
+    border: 1px solid #FFB84C;
+    color: #FFB84C;
+}

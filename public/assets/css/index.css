@@ -1,0 +1,22 @@
+body {
+    overflow-x: hidden;
+    box-sizing: border-box;
+    width: 100%;
+    min-height: 100vh;
+    margin: 0;
+    padding: 0;
+    background-color: #FEFEFE;
+    font-size: 16px;
+}
+
+.arrow-back {
+    font-size: 22px;
+    margin: 1rem 0;
+    text-decoration: none;
+}
+
+footer {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+}
